@@ -1,5 +1,5 @@
- <p align="center">
-  <img src="./banner.png" width="100%" alt="Suryansh — AI and Agentic AI Developer"/>
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Suryansh — AI & Agentic AI Developer"/>
 </p>
 
 <h1 align="center">Hey, I'm Suryansh 👋</h1>
