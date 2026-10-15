@@ -1,33 +1,42 @@
-# Hey, I'm Suryansh 👋
+ <p align="center">
+  <img src="./banner.png" width="100%" alt="Suryansh — AI and Agentic AI Developer"/>
+</p>
 
-### B.Tech CSE Student | AI & Agentic AI Developer
+<h1 align="center">Hey, I'm Suryansh 👋</h1>
 
-I'm interested in building intelligent applications that combine **Machine Learning, Large Language Models (LLMs), and AI agents** to solve real-world problems.
+<p align="center">
+  <b>B.Tech CSE Student | AI & Agentic AI Developer</b>
+</p>
 
-- 🤖 **Currently building:** Agentic AI applications and AI-powered automation
-- 🌱 **Currently learning:** LLMs, agent frameworks, and AI application development
-- 🤝 **Looking to collaborate on:** Agentic AI, Generative AI, and open-source projects
-- 💡 **Interested in:** AI agents, tool calling, intelligent automation, and scalable AI systems
-- 💬 **Ask me about:** Python, C/C++, DSA, Machine Learning, and AI
+<p align="center">
+  Building intelligent applications with Machine Learning, Large Language Models, and AI-powered automation.
+</p>
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/kumar-suryansh-563b10381">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:kumarsuryansh04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
+## 👨‍💻 About Me
+
+- 🤖 Currently working on **Agentic AI applications and AI-powered automation**.
+- 🌱 Learning about **LLMs, AI agents, and agent frameworks**.
+- 🤝 Open to collaborating on **Generative AI, Agentic AI, and open-source projects**.
+- 💡 Interested in building practical AI systems that can reason, use tools, and automate real-world tasks.
+- 💬 Ask me about **Python, C/C++, Data Structures & Algorithms, Machine Learning, and AI**.
+
+---
+
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
+
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -35,12 +44,14 @@ I'm interested in building intelligent applications that combine **Machine Learn
 </p>
 
 ### Databases
+
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
-### Data Science & Development
+### Libraries & Development Tools
+
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
@@ -63,5 +74,5 @@ I'm interested in building intelligent applications that combine **Machine Learn
 ---
 
 <p align="center">
-  <i>Building, learning, and experimenting with AI — one project at a time.</i>
+  <i>Build. Learn. Automate. Repeat. 🚀</i>
 </p>
