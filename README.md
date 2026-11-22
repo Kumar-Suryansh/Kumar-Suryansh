@@ -71,14 +71,15 @@ Building with code, exploring AI, and solving problems one step at a time.
 - Working with generator, validator, and orchestration-based workflows.
 - Investigating agent coordination and LLM-powered automation.
 
-### 💻 Data Structures & Algorithms
+### 💻 LeetCode Solutions
 
 **Tech:** C | C++ | Python
 
-- Solving algorithmic problems on LeetCode.
-- Practising problem-solving patterns involving arrays, strings, recursion, trees, graphs, and dynamic programming.
-- Focusing on algorithm optimization, time complexity, and space complexity.
+- Maintaining a collection of solutions to LeetCode problems.
+- Covering arrays, strings, recursion, sorting, searching, trees, graphs, and dynamic programming.
+- Focusing on optimized approaches, problem-solving patterns, and time and space complexity.
 
+🔗 **[View Repository](https://github.com/Kumar-Suryansh/Leetcode-Solutions)**
 ---
 
 ## 📊 GitHub Statistics
