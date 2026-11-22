@@ -15,61 +15,68 @@
 
 ### 👨‍💻 About Me
 
-I am a Computer Science student passionate about building intelligent systems and solving complex algorithmic problems. Currently, I spend my time bridging the gap between theoretical deep learning research and practical, agentic AI workflows.
-
-* 🔭 **Currently working on:** Deep Learning models for medical imaging (Endoscopic Tumor Detection) and multi-agent orchestration using **LangGraph** & **CrewAI**.
-* 🧠 **Sharpening my skills in:** Data Structures & Algorithms, System Design, and Competitive Programming.
-* 🎯 **Goals:** Secure a Software Engineering / AI Engineering internship, contribute to open-source AI tooling, and hit new milestones on LeetCode.
-* ⚡ **Off the keyboard:** Analyzing IPL cricket stats , racing in *F1 22*, or grinding in *Marvel Rivals*.
+- 🎓 **Computer Science Undergraduate** exploring Data Structures & Algorithms, Database Management Systems, and Neural Networks.
+- 🤖 **AI & Agentic Workflows:** Building multi-agent systems and orchestrating LLM pipelines using **LangGraph** and **CrewAI**.
+- 🔬 **Deep Learning Research:** Developing hybrid computer vision architectures (**CNNs + Vision Transformers**) for medical image classification.
+- 💻 **Problem Solver:** Actively grinding **LeetCode** and preparing for competitive programming contests like **TCS CodeVita**.
+- ⚡ **Off the Clock:** Tracking IPL cricket analytics , F1 sim racing, and grinding  *Marvel Rivals*.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-#### **Languages**
+**Languages**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-#### **AI, Machine Learning & Agents**
+**AI, Machine Learning & Agents**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-#### **Developer Tools & Documentation**
+**Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🩺 **Endoscopic Tumor Detection System**
-> *Computer Vision & Deep Learning*
-* Developed deep learning pipelines using **PyTorch / TensorFlow** to detect and segment tumors in endoscopic imagery.
-* Focused on optimizing model sensitivity and inference speed for clinical diagnostic assistance.
+- **🩺 Hybrid CNN–ViT Endoscopic Tumor Classifier**  
+  *Python • PyTorch / TensorFlow • Computer Vision*  
+  Proposed and implemented a hybrid deep learning pipeline combining Convolutional Neural Networks and Vision Transformers to detect and classify head and neck tumors from endoscopic imagery.
 
-#### 🤖 **Autonomous Multi-Agent Workflows**
-> *Agentic AI & LLM Orchestration*
-* Built stateful, multi-agent systems utilizing **LangGraph** and **CrewAI** to automate complex research, code generation, and data synthesis tasks.
+- **🤖 Multi-Stage Agentic Workflow Engine**  
+  *Python • LangGraph • CrewAI*  
+  Designed and built multi-agent architectures featuring generator, validator, and orchestration nodes for automated reasoning and structured task execution.
 
-#### 🧩 **DSA & Competitive Programming Archive**
-> *Algorithms & Optimization*
-* A curated repository of optimized **C++** and **Python** solutions for LeetCode, Codeforces, and TCS CodeVita problems, complete with time/space complexity analysis.
+- **📊 DSA & Competitive Programming Solutions**  
+  *C++ • Python*  
+  Curated repository of optimized solutions, pattern breakdowns, and complexity analyses across LeetCode and competitive coding challenges.
 
 ---
 
-### 📊 GitHub & Coding Stats
+### 📈 GitHub & LeetCode Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kumar-Suryansh&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kumar-Suryansh&layout=compact&langs_count=6&theme=nord&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kumar-Suryansh&theme=dracula" alt="GitHub Profile Summary" />
 
 <br/>
 
-<img src="https://leetcard.jacoblin.cool/Kr_Suryansh?theme=nord&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kumar-Suryansh&theme=dracula" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kumar-Suryansh&theme=dracula" alt="Most Commit Language" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kumar-Suryansh&theme=dracula&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/Kr_Suryansh?theme=dracula&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
 
 </div>
