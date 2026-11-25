@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # Hi, I'm Suryansh 👋
 
@@ -80,17 +80,32 @@ Building with code, exploring AI, and solving problems one step at a time.
 - Focusing on optimized approaches, problem-solving patterns, and time and space complexity.
 
 🔗 **[View Repository](https://github.com/Kumar-Suryansh/Leetcode-Solutions)**
+
+---
+
+## 🏙️ Contribution City
+
+*A year of commits, built as a city.*
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub contribution city" width="100%" />
+
+<sub>Every building represents a day. Taller buildings mean more contributions.</sub>
+
+</div>
+
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kumar-Suryansh&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kumar-Suryansh&theme=dracula&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kumar-Suryansh&theme=dracula&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kumar-Suryansh&theme=dracula&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
 
 </div>
 
@@ -100,7 +115,7 @@ Building with code, exploring AI, and solving problems one step at a time.
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Kr_Suryansh?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Statistics"/>
+<img src="https://leetcard.jacoblin.cool/Kr_Suryansh?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Statistics" />
 
 </div>
 
