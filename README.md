@@ -105,7 +105,6 @@ Building with code, exploring AI, and solving problems one step at a time.
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kumar-Suryansh&theme=dracula&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
 
 </div>
 
