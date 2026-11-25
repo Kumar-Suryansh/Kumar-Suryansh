@@ -97,18 +97,6 @@ Building with code, exploring AI, and solving problems one step at a time.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kumar-Suryansh&theme=dracula&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-
-</div>
-
----
 
 ## 🧩 LeetCode Activity
 
